@@ -1,0 +1,13 @@
+C:\Users\erik.bergland\source\repos\Metoder\bin\Debug\netcoreapp3.1\Metoder.exe
+C:\Users\erik.bergland\source\repos\Metoder\bin\Debug\netcoreapp3.1\Metoder.deps.json
+C:\Users\erik.bergland\source\repos\Metoder\bin\Debug\netcoreapp3.1\Metoder.runtimeconfig.json
+C:\Users\erik.bergland\source\repos\Metoder\bin\Debug\netcoreapp3.1\Metoder.runtimeconfig.dev.json
+C:\Users\erik.bergland\source\repos\Metoder\bin\Debug\netcoreapp3.1\Metoder.dll
+C:\Users\erik.bergland\source\repos\Metoder\bin\Debug\netcoreapp3.1\Metoder.pdb
+C:\Users\erik.bergland\source\repos\Metoder\obj\Debug\netcoreapp3.1\Metoder.csprojAssemblyReference.cache
+C:\Users\erik.bergland\source\repos\Metoder\obj\Debug\netcoreapp3.1\Metoder.AssemblyInfoInputs.cache
+C:\Users\erik.bergland\source\repos\Metoder\obj\Debug\netcoreapp3.1\Metoder.AssemblyInfo.cs
+C:\Users\erik.bergland\source\repos\Metoder\obj\Debug\netcoreapp3.1\Metoder.csproj.CoreCompileInputs.cache
+C:\Users\erik.bergland\source\repos\Metoder\obj\Debug\netcoreapp3.1\Metoder.dll
+C:\Users\erik.bergland\source\repos\Metoder\obj\Debug\netcoreapp3.1\Metoder.pdb
+C:\Users\erik.bergland\source\repos\Metoder\obj\Debug\netcoreapp3.1\Metoder.genruntimeconfig.cache
