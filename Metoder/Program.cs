@@ -95,6 +95,9 @@ namespace Metoder
                     case "exit":
                         loopconditionNumber = 1;
                         break;
+                    case  "done ordering":
+                        loopconditionNumber = 1;
+                        break;
                     default:
                         Console.WriteLine("Enter an item instead!");
                         break;
