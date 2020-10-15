@@ -11,6 +11,12 @@ namespace Metoder
         public string item3 = "Hamburger";
     }
 
+    class Foodsize : Food
+    {
+        public string dhs = "Double Half special";
+        public string shs = "Single Half special";
+    }
+
     class Tobacco 
     {
         public string item4 = "Ettan portion";

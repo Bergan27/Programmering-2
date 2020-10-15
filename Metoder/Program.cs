@@ -9,6 +9,7 @@ namespace Metoder
             Console.WriteLine("Hello and welcome to Lasse på Heden!");
             Customer customer = new Customer();
             Food food = new Food();
+            Foodsize fz = new Foodsize();
             Tobacco tobacco = new Tobacco();
             Beer beer = new Beer();
             Console.WriteLine("Start by looking trough our meny " +
@@ -31,6 +32,8 @@ namespace Metoder
                 "\n ---------------------------" +
                 "\n exit - Done ordering");
             string answer;
+            
+            
             int loopconditionNumber = 0;
             
             while (loopconditionNumber != 1)
@@ -38,11 +41,24 @@ namespace Metoder
                 Console.WriteLine("Enter your order or write done ordering");
                 answer = Console.ReadLine();
                 switch (answer)
+                
                 {
                     case "item1":
-                        Console.WriteLine("Item Half Special was added to your order");
-                        customer.shoppingCart.Add(food.item1);
+                        Console.WriteLine("Type 1 for a Double Half special");
+                        Console.WriteLine("Type 2 for a Single Half special");
+                        var answerConverted = Convert.ToInt32(Console.ReadLine());
+                        
+                        switch (answerConverted)
+                        {
+                            case 1:
+                                customer.shoppingCart.Add(fz.dhs);
+                                break;
+                            case 2:
+                                customer.shoppingCart.Add(fz.shs);
+                                break;
+                        }
                         break;
+
                     case "item2":
                         Console.WriteLine("Item Hotdog was added to your order");
                         customer.shoppingCart.Add(food.item2);
