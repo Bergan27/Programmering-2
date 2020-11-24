@@ -1,0 +1,19 @@
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\obj\Debug\netcoreapp3.1\Miniräknare Labb.csprojAssemblyReference.cache
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\obj\Debug\netcoreapp3.1\Miniräknare Labb_MarkupCompile.cache
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\obj\Debug\netcoreapp3.1\Miniräknare Labb_MarkupCompile.lref
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\bin\Debug\netcoreapp3.1\Miniräknare Labb.exe
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\bin\Debug\netcoreapp3.1\Miniräknare Labb.deps.json
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\bin\Debug\netcoreapp3.1\Miniräknare Labb.runtimeconfig.json
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\bin\Debug\netcoreapp3.1\Miniräknare Labb.runtimeconfig.dev.json
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\bin\Debug\netcoreapp3.1\Miniräknare Labb.dll
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\bin\Debug\netcoreapp3.1\Miniräknare Labb.pdb
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\obj\Debug\netcoreapp3.1\Miniräknare Labb.g.resources
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\obj\Debug\netcoreapp3.1\Miniräknare Labb.AssemblyInfoInputs.cache
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\obj\Debug\netcoreapp3.1\Miniräknare Labb.AssemblyInfo.cs
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\obj\Debug\netcoreapp3.1\Miniräknare Labb.csproj.CoreCompileInputs.cache
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\obj\Debug\netcoreapp3.1\Miniräknare Labb.dll
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\obj\Debug\netcoreapp3.1\Miniräknare Labb.pdb
+C:\Users\erik.bergland\Documents\GitHub\-Arbete-Prog2-README.md-\Miniräknare Labb\obj\Debug\netcoreapp3.1\Miniräknare Labb.genruntimeconfig.cache
