@@ -20,6 +20,7 @@
         <Grid x:Name="Start">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
+                
                 <ColumnDefinition/>
                 <ColumnDefinition/>
                 <ColumnDefinition/>
@@ -30,26 +31,30 @@
                 <RowDefinition/>
                 <RowDefinition/>
                 <RowDefinition/>
+                <RowDefinition/>
 
             </Grid.RowDefinitions>
-            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="1">1</Button>
-            <Button Click="OkButton_Klick"  FontSize="50" Grid.Column="1" Grid.Row="1">2</Button>
-            <Button Click="OkButton_Klick"  FontSize="50" Grid.Column="2" Grid.Row="1">3</Button>
-            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="2">4</Button>
-            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="2" Grid.Column="1">5</Button>
-            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="2" Grid.Column="2">6</Button>
-            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="3" >7</Button>
-            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="3" Grid.Column="1">8</Button>
-            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="3" Grid.Column="2">9</Button>
-            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="4" Grid.Column="1">0</Button>
-            <Button Click="Equal_Click"  FontSize="50" Grid.Row="4" Grid.Column="2">=</Button>
-            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="1" Grid.Column="3">+</Button>
-            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="2" Grid.Column="3">-</Button>
-            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="3" Grid.Column="3">/</Button>
-            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="4" Grid.Column="3">*</Button>
-            <Button Click="Clear"  FontSize="50" Grid.Row="0" Grid.Column="3">C</Button>
-            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="4"  Content="."></Button>
-            <TextBlock x:Name="OkText" Grid.ColumnSpan="3" FontSize="40" FontWeight="Bold" VerticalAlignment="Center"  ></TextBlock>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="2">1</Button>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Column="1" Grid.Row="2">2</Button>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Column="2" Grid.Row="2">3</Button>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="3">4</Button>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="3" Grid.Column="1">5</Button>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="3" Grid.Column="2">6</Button>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="4" >7</Button>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="4" Grid.Column="1">8</Button>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="4" Grid.Column="2">9</Button>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="5" Grid.Column="1">0</Button>
+            <Button Click="Equal_Click"  FontSize="50" Grid.Row="5" Grid.Column="2">=</Button>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="2" Grid.Column="3">+</Button>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="3" Grid.Column="3">-</Button>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="4" Grid.Column="3">/</Button>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="5" Grid.Column="3">*</Button>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="1" Grid.Column="0">²</Button>
+            <Button Click="Delete"  FontSize="40" Grid.Row="1" Grid.Column="2">Del</Button>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="1" Grid.Column="1">√</Button>
+            <Button Click="Clear"  FontSize="50" Grid.Row="1" Grid.Column="3">C</Button>
+            <Button Click="OkButton_Klick"  FontSize="50" Grid.Row="5"  Content=","></Button>
+            <TextBlock x:Name="OkText" Grid.ColumnSpan="4" FontSize="40" FontWeight="Bold" VerticalAlignment="Center"  ></TextBlock>
         </Grid>
     </Grid>
 </Window>

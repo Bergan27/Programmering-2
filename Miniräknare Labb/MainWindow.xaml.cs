@@ -52,6 +52,15 @@ namespace Miniräknare_Labb
             {
                 OkText.Text = Times();
             }
+            else if (OkText.Text.Contains("√"))
+            {
+                OkText.Text = Squere();
+            }
+            else if (OkText.Text.Contains("²"))
+            {
+                OkText.Text = ToThePowerOf();
+            }
+           
         }
         private string Substraction()
         {
@@ -61,6 +70,22 @@ namespace Miniräknare_Labb
             var sum = number1 - number2;
             return sum + "";
         }
+        private string Squere()
+        {
+            var numbers = OkText.Text.Split("√");
+            var number2 = Convert.ToDouble(numbers[1]);
+            var sum = Math.Sqrt(number2);
+            return sum + "";
+        }
+
+        private string ToThePowerOf()
+        {
+            var numbers = OkText.Text.Split("²");
+            var number1 = Convert.ToDouble(numbers[0]);
+            var sum = Math.Pow(number1 , 2);
+            return sum + "";
+        }
+        
 
         private string Addition()
         {
@@ -70,6 +95,7 @@ namespace Miniräknare_Labb
             var sum = number1 + number2;
             return sum + "";
         }
+       
         private string Division()
         {
             var numbers = OkText.Text.Split("/");
@@ -86,6 +112,11 @@ namespace Miniräknare_Labb
             var sum = number1 * number2;
             return sum + "";
         }
+        private void Delete(object sender, RoutedEventArgs e)
+        {
+            OkText.Text = OkText.Text.Remove(OkText.Text.Length - 1);
+        }
+
         private void Clear(object sender, RoutedEventArgs e)
         {
              OkText.Text = "" ;
